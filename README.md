@@ -1,4 +1,5 @@
 # Grechcoin
+<img src="logo.png" alt="Grechcoin logo">
 Grechcoin on Everscale
     This site is dedicated to the TIP-3 Token created on the 5th gen blockchain:
     Grechcoin on Everscale. - Cryptocurrency inspired by buckwheat (ru.: Grechca). Why buckwheat?
