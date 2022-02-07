@@ -18,5 +18,6 @@ Grechcoin on Everscale
     <td><a href="https://telegra.ph/How-to-buy-Grechcoin-12-15">How to buy</a></td>
     <td><a href="https://tonswap.io/swap/0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806">Add GRE on TONSWAP</a></td>
     <td>Our TG <a href="https://t.me/Grechcoin_Ever">Channel</a> and <a href="https://t.me/Grechcoin">Chat</a></td>
+    <td><a href="https://tonswap.io/farming/0:12b533691be146b28929a05a18d1ff1fbb085a679ccba298aa250aa69007480a">Farming</a></td>
   </tr>
 </table>
