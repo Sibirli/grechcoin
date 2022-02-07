@@ -6,7 +6,7 @@
     and not for a given period of time or short term.
     Long term will allow you to have a greater chance of success.
     Perhaps it is Grechcoin that can make you rich. <br>
-        <з>**Brief information:**<br>
+        <p>**Brief information:**<br>
         Name: **Grechcoin** <br>
         Ticker: **GRE** <br>
         Circulating, Total & Max Supply: **128 000 GRE** <br>
