@@ -1,0 +1,2 @@
+# grechcoin
+Grechcoin on Everscale
