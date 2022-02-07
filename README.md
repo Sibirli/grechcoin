@@ -1,6 +1,6 @@
 # Grechcoin on Everscale
 <div><img src="logo.png" alt="Grechcoin logo" width="25%"></div>
-    Hello! <br> This site is dedicated to the TIP-3 Token created on the 5th gen blockchain:
+    </code> Hello! <br> This site is dedicated to the TIP-3 Token created on the 5th gen blockchain:
     Grechcoin on Everscale. - Cryptocurrency inspired by buckwheat (ru.: Grechca). Why buckwheat?
     Grechcoin is a long-term thing like real buckwheat. Buckwheat is bought for the future,
     and not for a given period of time or short term.
@@ -11,7 +11,7 @@
         Ticker: **GRE** <br>
         Circulating, Total & Max Supply: **128 000 GRE** <br>
         Root owner: **blackhole** (nobody has access) <br>
-        Contract : 0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806</p>
+        Contract : <code> 0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806</p>
 <table>
   <tr>
     <td><a href="https://telegra.ph/How-to-buy-Grechcoin-12-15">How to buy</a></td>
