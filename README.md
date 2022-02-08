@@ -1,6 +1,5 @@
 # Grechcoin on Everscale
-<div><img src="logo.png" alt="Grechcoin logo" width="25%"></div>
-<div class="menubox-40">
+<div><img src="logo.png" alt="Grechcoin logo" width="25%">
                                 <h3 class='text-heading'><img src='logo.png' alt='mini logo' width='5%'> Grechcoin (GRE)</h3>
                 <h3 class='text-heading'>$0.0983<small><b style='color:green'>+16.05%</b></small>
                 <p><b style='color:black;'>TVL: $4 931 <small><b style='color:green'>+23.06%</b></small></b></p></h3>
