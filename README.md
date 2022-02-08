@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td>
-        <p><b style='color:black;'><img src='logo.png' alt='mini logo' width='5%'> Grechcoin (GRE)</b></p>
+        <p><b style='color:black;'><img src='logo.png' alt='mini logo' width='5%'> Grechcoin (GRE) </b></p>
     </td>
   </tr>
   <tr>
