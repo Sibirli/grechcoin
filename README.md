@@ -1,8 +1,5 @@
 # Grechcoin on Everscale
-<div><img src="logo.png" alt="Grechcoin logo" width="25%"><table><tr><td><h3 class='text-heading'><img src='logo.png' alt='mini logo' width='5%'> Grechcoin (GRE)</h3></td></tr>
-                <tr><td><h3 class='text-heading'>$0.0983<small><b style='color:green'>+16.05%</b></small></td></tr>
-                <tr><td><p><b style='color:black;'>TVL: $4 931 <small><b style='color:green'>+23.06%</b></small></b></p></h3></td></tr></table>
-            </div>Hello! <br> This site is dedicated to the TIP-3 Meme-Token created on the 5th gen blockchain:
+<div><img src="logo.png" alt="Grechcoin logo" width="25%"></div>Hello! <br> This site is dedicated to the TIP-3 Meme-Token created on the 5th gen blockchain:
     Grechcoin on Everscale. Cryptocurrency inspired by buckwheat (ru.: Grechca). Why buckwheat?
     Grechcoin is a long-term thing like real buckwheat. Buckwheat is bought for the future,
     and not for a given period of time or short term.
@@ -14,6 +11,23 @@
         Circulating, Total & Max Supply: **128 000 GRE** <br>
         Root owner: **blackhole** (nobody has access) <br>
         Contract : 0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806
+<table>
+  <tr>
+    <td>
+        <p><b style='color:black;'><img src='logo.png' alt='mini logo' width='5%'> Grechcoin (GRE)</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        $0.0983<small><b style='color:green'>+16.05%</b></small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b style='color:black;'>TVL: $4 931 <small><b style='color:green'>+23.06%</b></small></b></p>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td><a href="https://telegra.ph/How-to-buy-Grechcoin-12-15">How to buy</a></td>
