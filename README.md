@@ -1,5 +1,5 @@
 # Grechcoin on Everscale
-<div><img src="logo.png" alt="Grechcoin logo" width="25%"></div>Hello! <br> This site is dedicated to the TIP-3 Meme-Token created on the 5th gen blockchain:
+<div><img src="logo.png" alt="Grechcoin logo" width="25%"></div>Hello! <br> This site is dedicated to the TIP-3.1 Meme-Token created on the 5th gen blockchain:
     Grechcoin on Everscale. Cryptocurrency inspired by buckwheat (ru.: Grechca). Why buckwheat?
     Grechcoin is a long-term thing like real buckwheat. Buckwheat is bought for the future,
     and not for a given period of time or short term.
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>
-      <p><b style='color:black;'>TVL: $2 949<small><b style='color:green'>+126.07%</b></small></b></p>
+      <p><b style='color:black;'>TVL: $2 949 <small><b style='color:green'>+126.07%</b></small></b></p>
     </td>
   </tr>
 </table>
