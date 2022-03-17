@@ -8,7 +8,7 @@
         **Brief information:**<br>
         Name: **Grechcoin** <br>
         Ticker: **GRE** <br>
-        Circulating, Total & Max Supply: **~80 000 GRE** <br>
+        Circulating, Total & Max Supply: **~85 000 GRE** <br>
         Root owner: **blackhole** (nobody has access) <br>
         Contract : 0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99
 <table>
@@ -19,12 +19,12 @@
   </tr>
   <tr>
     <td>
-        $0.2882 <small><b style='color:green'>+101.45%</b></small>
+        $0.1977 <small><b style='color:red'>-49.88%</b></small>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b style='color:black;'>TVL: $2 949 <small><b style='color:green'>+126.07%</b></small></b></p>
+      <p><b style='color:black;'>TVL: $2 581 <small><b style='color:red'>-30%</b></small></b></p>
     </td>
   </tr>
 </table>
