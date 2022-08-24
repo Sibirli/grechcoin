@@ -19,12 +19,12 @@
   </tr>
   <tr>
     <td>
-        $0.3374 <small><b style='color:green'>+7.52%</b></small>
+        $0.076 <small><b style='color:green'>+1.31%</b></small>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b style='color:black;'>TVL: $5 924 <small><b style='color:green'>5.08%</b></small></b></p>
+      <p><b style='color:black;'>TVL: $1 324 <small><b style='color:green'>1.05%</b></small></b></p>
     </td>
   </tr>
 </table>
